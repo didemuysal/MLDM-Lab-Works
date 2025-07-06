@@ -21,11 +21,11 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<h3> <font color=\"blue\"> Lab goals</font> </h3>\n",
-    "<p> 1.  Introduction to the Breast Cancer dataset </p>\n",
-    "<p> 2.  Learn how to use heatmaps to explore correlations</p>\n",
-    "<p> 3.  Learn how to visualise a decision tree</p>\n",
-    "<p> 4.  Use sklearn to learn and prune a decision tree classifier</p>"
+    "<h3> <font color=\"blue\"> Methodology </font> </h3>\n",
+    "<p> 1.  Exploration of the Breast Cancer dataset </p>\n",
+    "<p> 2.  Heatmaps to explore correlations</p>\n",
+    "<p> 3.  Visualision of a decision tree</p>\n",
+    "<p> 4.  Sklearn library to learn and prune a decision tree classifier</p>"
    ]
   },
   {
