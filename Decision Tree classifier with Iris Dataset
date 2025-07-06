@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<h1>MLDM Lab week 1: Introduction to Iris dataset and using a simple Decision Tree classifier from the sklearn library</h1>"
+    "<h1>Introduction to Iris dataset and using a simple Decision Tree classifier from the sklearn library</h1>"
    ]
   },
   {
