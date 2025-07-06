@@ -9,9 +9,10 @@ An exploration of Bayesian learning principles applied to a text classification 
 
 2. Decision Tree Classifiers
 
-Decision Tree classifier with Iris Dataset.ipynb and Decision Trees on Breast Cancer Data.ipynb
+  Decision Tree classifier with Iris Dataset.ipynb and Decision Trees on Breast Cancer Data.ipynb
 
-Description: These notebooks implement Decision Tree classifiers on the classic Iris and Breast Cancer datasets. They cover the process of building, visualizing, and evaluating decision tree models for classification.
+  Description: These notebooks implement Decision Tree classifiers on the classic Iris and Breast Cancer datasets. They cover the process of building, visualizing, and evaluating decision tree models for        
+  classification.
 
 3. Perceptron and Multi-Layer Perceptron (MLP)
 An implementation of the Perceptron algorithm and a Multi-Layer Perceptron from scratch. This project showcases the foundational concepts of neural networks.
