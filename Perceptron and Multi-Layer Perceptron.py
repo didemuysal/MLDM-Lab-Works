@@ -5,14 +5,14 @@
 
 # <h3> <font color="blue"> Introduction </h3>
 # 
-# In this lab session, we explore Perceptron and Multi-Layer Perceptron (MLP) using `sklearn`.
+# Perceptron and Multi-Layer Perceptron (MLP) using `sklearn`.
 # 
-# We revisit the Iris and the Breast Cancer datasets from previous lab sessions and train Perceptron and MLP classifiers using these datasets. Please see the information regarding these datasets from previous two lab sessions.
+# Iris and the Breast Cancer datasets and train Perceptron and MLP classifiers using these datasets.
 
-# <h3> <font color="blue"> Lab goals</font> </h3>
-# <p> 1.  Learn how to create and use a Perceptron. </p>
-# <p> 2.  Learn how to create and use a MLP. </p>
-# <p> 3.  Learn how to create ROC curves to evaluate and compare models. </p>
+# <h3> <font color="blue"> Methodologies</font> </h3>
+# <p> 1.  Create and use a Perceptron. </p>
+# <p> 2.  Create and use a MLP. </p>
+# <p> 3. Create ROC curves to evaluate and compare models. </p>
 
 # ## <font color="blue"> Training and evaluating a Perceptron 
 # In this experiment we re-visit the Iris dataset, however, instead of loading the dataset from a file or url, we load the dataset directly from the scikit-learn datasets. In this dataset, the third column represents the petal length, and the fourth column the petal width of the flower examples and the classes are already converted to integer labels where 0=Iris-Setosa, 1=Iris-Versicolor, 2=Iris-Virginica.
