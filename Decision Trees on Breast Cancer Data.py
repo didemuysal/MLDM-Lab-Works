@@ -12,7 +12,7 @@
    "metadata": {},
    "source": [
     "<h3> <font color=\"blue\"> Introduction </h3>\n",
-    "<p>In this lab session we explore the Breast Cancer Wisconsin dataset using heatmaps. We will also learn and visualise a decision tree classifier.</p>\n",
+    "<p> Exploring the Breast Cancer Wisconsin dataset using heatmaps. We will also learn and visualise a decision tree classifier.</p>\n",
     "<p>The dataset is <b>Breast Cancer Wisconsin  dataset</b>, which is a well-known machine learning dataset. </p>\n",
     "<p>More details about the dataset can be found from <a href=\"https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)\">here</a> and from <a href=\"https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/version/2#\">kaggle</a></p>"
    ]
