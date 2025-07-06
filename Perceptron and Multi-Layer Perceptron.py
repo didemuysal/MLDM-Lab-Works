@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # MLDM Lab week 3: Neural Networks - Perceptron and Multi-Layer Perceptron (MLP)
+# # Neural Networks - Perceptron and Multi-Layer Perceptron (MLP)
 
 # <h3> <font color="blue"> Introduction </h3>
 # 
