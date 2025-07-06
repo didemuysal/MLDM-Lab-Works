@@ -12,8 +12,8 @@
    "metadata": {},
    "source": [
     "<h3> <font color=\"blue\"> Introduction </h3>\n",
-    "<p>In this lab session we are going to learn about loading and exploring a dataset in Python. We will also use the sklearn library to create a simple decision tree classifier.</p>\n",
-    "<p>The dataset we are going to use is <b>Iris flowers dataset</b>, which is well-known dataset for demonstrating ML and pattern recognition algorithms. The data set contains 3 classes of flowers with 50 instances for each</p>\n",
+    "<p>Lloading and exploring a dataset in Python. We will also use the sklearn library to create a simple decision tree classifier.</p>\n",
+    "<p>The dataset is <b>Iris flowers dataset</b>, which is well-known dataset for demonstrating ML and pattern recognition algorithms. The data set contains 3 classes of flowers with 50 instances for each</p>\n",
     "<p>More details about the dataset can be found from <a href=\"https://en.wikipedia.org/wiki/Iris_flower_data_set\">here</a></p>"
    ]
   },
@@ -21,9 +21,9 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<h3> <font color=\"blue\"> Lab goals</font> </h3>\n",
+    "<h3> <font color=\"blue\"> Methodologies</font> </h3>\n",
     "<p> 1.  Introduction to the Iris dataset </p>\n",
-    "<p> 2.  Learn how to load and explore a dataset and to understand its structure using statistical summaries and data visualization </p>\n",
+    "<p> 2.  Explore a dataset and to understand its structure using statistical summaries and data visualization </p>\n",
     "<p> 3.  Use sklearn to learn and evaluate a simple Decision Tree classifier. </p>"
    ]
   },
