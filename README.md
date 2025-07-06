@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning and Data Mining Projects
 This repository contains a collection of projects demonstrating the implementation of various machine learning algorithms. The projects cover fundamental concepts in classification, neural networks, and clustering using popular Python libraries.
 
 ## Projects
